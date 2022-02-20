@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">See More Text</string>
+    <string name="see_more">See more</string>
+    <string name="see_less">See less</string>
+    <string name="long_text">Our online self-study, live classes and one-to-one courses with personal tutors are designed by some of the world\'s English teaching experts. They offer a safe and inclusive learning environment to help you improve your English and achieve your ambitions.  Do you need to talk to friends and work colleagues in English? Do you want to be able to use your English in a variety of social situations? Join thousands of learners from around the world who have improved their English skills with our online courses.</string>
 </resources>
